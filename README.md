@@ -6,7 +6,7 @@ ADITYA
 git status 
 
 vfsvsh
-hello world i am here to help ypu buddy in the following placement drive 
+hello world i am here to help ypu buddy in the following placement drive u
 the backend deveplopment
 h
 jhi kjoj
