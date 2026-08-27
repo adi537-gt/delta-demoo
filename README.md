@@ -2,7 +2,10 @@
 This is a demo for aditya class
 HELLO I AM ADITYA KUMAR GUPTA jj
 # STUDENT 
-ADITYA 
+ADITYA hbhkbhkhk
+hnhnk
+onk
+
 git status 
 
 vfsvshk
